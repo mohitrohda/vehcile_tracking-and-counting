@@ -1,7 +1,7 @@
 streamlit==1.32.2
-opencv-python-headless==4.8.1.78
-ultralytics==8.0.200
-torch==2.0.1 --index-url https://download.pytorch.org/whl/cpu
-torchvision==0.15.2 --index-url https://download.pytorch.org/whl/cpu
-numpy==1.24.4
-Pillow==10.0.1
+opencv-python-headless==4.6.0.66
+ultralytics==8.0.196
+torch==1.13.1 --index-url https://download.pytorch.org/whl/cpu
+torchvision==0.14.1 --index-url https://download.pytorch.org/whl/cpu
+numpy==1.23.5
+Pillow==9.5.0
