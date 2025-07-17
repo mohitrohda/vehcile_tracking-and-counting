@@ -1,6 +1,7 @@
+setuptools>=42
+wheel
 streamlit
 ultralytics
 opencv-python-headless
 Pillow
 numpy
-
