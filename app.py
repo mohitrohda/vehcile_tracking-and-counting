@@ -6,7 +6,7 @@ from collections import defaultdict
 st.title("YOLO Object Tracking & Counting")
 
 # Initialize model
-model = YOLO("YOLO11l.pt")
+model = YOLO("yolo11l.pt")
 
 # Complete COCO class list (80 classes)
 class_list = [
