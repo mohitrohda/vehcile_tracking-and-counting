@@ -1,7 +1,6 @@
 streamlit==1.32.2
 opencv-python-headless==4.9.0.80
 ultralytics==8.2.4
-torch==2.2.1+cpu
+torch==2.2.1+cpu --index-url https://download.pytorch.org/whl/cpu
 numpy==1.26.4
 Pillow==10.2.0
-pyyaml==6.0.1
