@@ -1,11 +1,6 @@
-wheel==0.42.0  # Required for building packages
-
-
-streamlit==1.32.2
-opencv-python-headless==4.6.0.66
-ultralytics==8.0.196
-torch==2.5.0 --index-url https://download.pytorch.org/whl/cpu
-torchvision==0.21.0 --index-url https://download.pytorch.org/whl/cpu
-numpy==1.23.5
-Pillow==9.5.0
+streamlit
+ultralytics
+opencv-python-headless
+Pillow
+numpy
 
